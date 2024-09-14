@@ -6,6 +6,19 @@ Welcome to my GitHub Profile
 - 🌱 Experienced in Product Management, Software Engineering, and AI-driven projects
 - 📫 How to reach me: [shaunakchaudhary1998@gmail.com](mailto:shaunakchaudhary1998@gmail.com)
 
+## Work Experience:
+- **Lead Product Manager (Founding Team) | Fuel AI**  
+  Led the development of a B2M data marketplace platform, increasing user engagement by 40% and driving $250K in revenue by improving customer interactions.
+
+- **Product Manager (Nonprofit) | Paper Prisons Org**  
+  Led cross-functional teams to analyze 10M+ criminal records, improving access to jobs, housing, and voting rights by using Agile methodologies.
+
+- **Product Lead & Co-founder | Tiffeasts Services**  
+  Built and scaled a home food meal delivery app, achieving 50% user growth and increasing sales by 20% through data-driven product enhancements.
+
+- **Financial Analyst Intern | Motilal Oswal Asset Management**  
+  Conducted fundamental and technical stock analysis, contributing to a $500K portfolio growth within six months.
+
 ## Technical Skills:
 
 ### Languages:
@@ -61,20 +74,6 @@ Welcome to my GitHub Profile
 - Design Thinking
 - Product Lifecycle Management
 - KPIs Monitoring
-
-## Projects:
-- **AI-Driven PESTEL Risk Impact Analysis System**  
-  Developed an AI system analyzing 5,000+ news articles to predict business impacts. Leveraged BERT and RoBERTa transformers to achieve 92% accuracy in sentiment analysis.
-
-- **AI Brandkit Generator**  
-  Created an AI-powered tool for brand kit generation using RAG, automating font, color palette, and logo generation with models like DALL-E 3 and OpenAI API.
-
-## Work Experience:
-- **Lead Product Manager (Founding Team) | Fuel AI**  
-  Led the development of a B2M data marketplace platform, increasing user engagement by 40% and driving $250K in revenue by improving customer interactions.
-
-- **Product Lead & Co-founder | Tiffeasts Services**  
-  Built and scaled a home food meal delivery app, achieving 50% user growth and increasing sales by 20% through data-driven product enhancements.
 
 ## Connect with me:
 [<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/shaunakc)
