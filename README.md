@@ -41,34 +41,17 @@ Welcome to my GitHub Profile
 </p>
 
 ### APIs & AI Tools:
-- OpenAI API
-- Claude API
-- Pinecone
-- Chroma
-- Google Analytics
+OpenAI API, Claude API, Pinecone, Chroma, Google Analytics
 
 ### Product Tools:
-- Confluence
-- Asana
-- Figma
-- Adobe Illustrator
-- Lottie
-- Framer
-- Jira
-- GitHub
+Confluence, Asana, Figma, Adobe Illustrator, Lottie, Framer, Jira, GitHub
 
 ### Databases & Cloud:
-- MySQL
-- Oracle SQL
-- Firebase
-- Google Cloud
-- AWS
+MySQL, Oracle SQL, Firebase, Google Cloud, AWS
 
 ### Project Management:
-- Agile Methodologies
-- Design Thinking
-- Product Lifecycle Management
-- KPIs Monitoring
+Agile Methodologies, Design Thinking, Product Lifecycle Management, KPIs Monitoring
+
 
 ## Connect with me:
 [<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/shaunakc)
