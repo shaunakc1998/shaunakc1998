@@ -17,10 +17,10 @@ Welcome to my GitHub Profile
 - **Software Engineer (Founding Team) | Fuel AI**  
   Led the development of a B2M data marketplace platform, increasing user engagement by 40% and driving $250K in revenue by improving customer interactions.
 
-- **Product Manager (Nonprofit) | Paper Prisons Org**  
+- **Technical Product Manager & Analyst | Santa Clara University**  
   Led cross-functional teams to analyze 10M+ criminal records, improving access to jobs, housing, and voting rights by using Agile methodologies.
 
-- **Product Lead & Co-founder | Tiffeasts Services**  
+- **Co-Founder & Product Lead | Tiffeasts Services**  
   Built and scaled a home food meal delivery app, achieving 50% user growth and increasing sales by 20% through data-driven product enhancements.
 
 - **Financial Analyst Intern | Motilal Oswal Asset Management**  
