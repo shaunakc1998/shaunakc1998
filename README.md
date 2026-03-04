@@ -2,7 +2,8 @@
 
 Welcome to my GitHub Profile
 
-- 🚀 Product @Fuel AI
+- Software Enginner @DevDocs
+- 🚀 Ex-Software Enginner @Fuel AI
 - 🎓 MS in Computer Science & Engineering at Santa Clara University (2022-2024)
 - 🌱 Experienced in Product Management, Software Engineering, and AI-driven projects
 - 📫 How to reach me: [shaunakchaudhary1998@gmail.com](mailto:shaunakchaudhary1998@gmail.com)
