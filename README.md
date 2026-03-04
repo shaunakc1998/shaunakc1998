@@ -10,7 +10,7 @@ Welcome to my GitHub Profile
 
 ## Work Experience:
 
-- **Software Engineer (Founding Team) | Fuel AI**  
+- **Software Engineer | DevDocs**  
   Developing agentic tooling to automate and assist in documentation consulting tasks.
   Working on documentation auditing and creation workflows, including technical writing.
   
