@@ -9,7 +9,12 @@ Welcome to my GitHub Profile
 - 📫 How to reach me: [shaunakchaudhary1998@gmail.com](mailto:shaunakchaudhary1998@gmail.com)
 
 ## Work Experience:
-- **Product Engineer (Founding Team) | Fuel AI**  
+
+- **Software Engineer | DevDocs**
+  Developing agentic tooling to automate and assist in documentation consulting tasks.
+  Working on documentation auditing and creation workflows, including technical writing.
+  
+- **Software Engineer (Founding Team) | Fuel AI**  
   Led the development of a B2M data marketplace platform, increasing user engagement by 40% and driving $250K in revenue by improving customer interactions.
 
 - **Product Manager (Nonprofit) | Paper Prisons Org**  
